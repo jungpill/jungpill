@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### Database
-![MsSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MsSQL](https://img.shields.io/badge/-MsSQL-4479A1?style=flat-square&logo=mssql&logoColor=white)
 
 
 ### Development Tools
