@@ -1,5 +1,6 @@
 <p align="center">
   SKILLS
+  <hr/>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
