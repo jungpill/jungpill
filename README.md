@@ -1,6 +1,7 @@
-
-<p align="center">
+<p align = "center> 
   SKILLS
+<p/>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
