@@ -1,7 +1,6 @@
 # Tech Stack
 
 ### Infrastructure & DevOps
-
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -9,18 +8,14 @@
 ![KVM](https://img.shields.io/badge/-KVM%20%2F%20libvirt-FF6600?style=flat-square&logo=linux&logoColor=white)
 ![UFW](https://img.shields.io/badge/-UFW%20Firewall-333333?style=flat-square&logo=ubuntu&logoColor=white)
 
-<br/>
 
 ### Monitoring & Logging
-
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/-Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Promtail](https://img.shields.io/badge/-Promtail-4A154B?style=flat-square&logo=grafana&logoColor=white)
 
-<br/>
 
 ### Cloud & Deployment
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
